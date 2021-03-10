@@ -4,7 +4,7 @@
 ## This list has been created for security purpose ONLY
 ## To be more efficient, you should also consider blocking DoH providers IP adresses
 ## Last update : 15 June 2020
-## Domain count : 132
+## Domain count : 133
 ===================================================================
 
 # Aaflalo
