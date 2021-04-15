@@ -1,6 +1,6 @@
 <h1>Upated to adblock style syntax</h1>
 
-<h3>I have moved this list off of The Great Wall DoH and moved to [oneoffdallas](https://github.com/oneoffdallas/dohservers)</h3>
+<h3>I have moved this list off of The Great Wall DoH and moved to https://github.com/oneoffdallas/dohservers</h3>
 
 ## What is DNS-over-HTTPS (DoH) ?
 
