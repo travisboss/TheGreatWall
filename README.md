@@ -1,3 +1,5 @@
+<h1>Upated to adblock style syntax</h1>
+
 <h3 align="center"><img src=https://github.com/Sekhan/TheGreatWall/blob/master/Picture/TitleList.jpg alt="TitleList" height="250px"></h3>
 
 ## What is DNS-over-HTTPS (DoH) ?
@@ -10,7 +12,7 @@ While bringing encryption is always an important thing, including in oppressive 
 
 **But moreover, programs and malwares could abuse public DoH provider to evade DNS filtering (like Pihole) and communicate with telemetry service or command-and-control server. See <a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/new-godlua-backdoor-found-abusing-dns-over-https-doh-protocol">Godlua malware</a>.**
 
-### :warning: Disclaimer 
+### :warning: Disclaimer
 
 **Theses lists (updated every month) has been created for security purpose ONLY**. There are not a tool to prevent your employee from bypassing the fact that you're monitoring/blocking their online activity ! If you suspect your entity to do so, consider using a VPN or Tor Browser.
 
@@ -25,6 +27,5 @@ Blocking DoH entirely might not be the best approch for everyone, especially if 
 - <a href="https://www.youtube.com/watch?v=pjin3nv8jAo"> NLNOG 2019 - DNS over HTTPS considerations</a>.
 
 - <a href="https://www.ietf.org/archive/id/draft-doh-reid-operator-00.txt">DoH draft for the IETF</a> ("Privacy Concerns" and "Security Considerations").
-
 
 <p align="right"> * Wall icon drawed by Eucalyp (flaticon.com)
