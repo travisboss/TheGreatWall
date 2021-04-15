@@ -2,7 +2,7 @@
   "name": "Jefe The Great Wall DoH",
   "sources": [
     {
-      "source": "https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt",
+      "source": "https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt",
       "type": "hosts",
       "transformations": ["Compress"]
     }

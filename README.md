@@ -1,6 +1,6 @@
 <h1>Upated to adblock style syntax</h1>
 
-<h3 align="center"><img src=https://github.com/Sekhan/TheGreatWall/blob/master/Picture/TitleList.jpg alt="TitleList" height="250px"></h3>
+<h3>I have moved this list off of The Great Wall DoH and moved to [oneoffdallas](https://github.com/oneoffdallas/dohservers)</h3>
 
 ## What is DNS-over-HTTPS (DoH) ?
 
