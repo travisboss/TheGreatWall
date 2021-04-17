@@ -1,5 +1,7 @@
 [![Cron CI](https://github.com/travisboss/TheGreatWall/actions/workflows/cron.yml/badge.svg?branch=master)](https://github.com/travisboss/TheGreatWall/actions/workflows/cron.yml)
 
+This list is updated nightly.
+
 <h1>Upated to adblock style syntax</h1>
 
 <h3>I have moved this list off of The Great Wall DoH and moved to https://github.com/oneoffdallas/dohservers</h3>
