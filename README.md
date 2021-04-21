@@ -2,7 +2,7 @@
 
 This list is updated nightly.
 
-# Upated to adblock style syntax</h1>
+# Updated to adblock style syntax</h1>
 ## Can use with adguard, adguard home, ublock, adblock, adblockplus, opera and adnuseaum
 
 ### I have moved this list off of The Great Wall DoH and moved to https://github.com/oneoffdallas/dohservers
