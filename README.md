@@ -1,6 +1,6 @@
 [![Cron CI](https://github.com/travisboss/TheGreatWall/actions/workflows/cron.yml/badge.svg?branch=master)](https://github.com/travisboss/TheGreatWall/actions/workflows/cron.yml)
 
-This list is updated nightly.
+This list is updated weekly.
 
 # Updated to adblock style syntax</h1>
 ## Can use with adguard, adguard home, ublock, adblock, adblockplus, opera and adnuseaum
