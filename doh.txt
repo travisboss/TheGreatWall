@@ -1,6 +1,6 @@
 !
 ! Title: Jefe The Great Wall DoH
-! Last modified: 2021-09-12T07:15:24.883Z
+! Last modified: 2021-09-19T07:15:18.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -101,9 +101,6 @@
 ||dns.dnshome.de^
 ||dns1.dnscrypt.ca^
 ||dns2.dnscrypt.ca^
-||doh.dns.sb^
-||public-dns-a.dns.sb^
-||public-dns-b.dns.sb^
 ||doh.dnslify.com^
 ||a.ns.dnslify.com^
 ||b.ns.dnslify.com^
@@ -163,10 +160,14 @@
 ||rpz-public-resolver1.rrdns.pch.net^
 ||dns.pumplex.com^
 ||doh.powerdns.org^
+||a.passcloud.xyz^
+||i.passcloud.xyz^
 ||dns.quad9.net^
 ||dns9.quad9.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
+||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns-nosec.quad9.net^
 ||dns.rubyfish.cn^
 ||ea-dns.rubyfish.cn^
@@ -243,3 +244,11 @@
 ||freedns.controld.com^
 ||doh.mullvad.net^
 ||dns.arapurayil.com^
+||dot.xfinity.com^
+||dot.cox.net^
+||doh.cox.net^
+||dns.sb^
+||8888.google^
+||doh.quickline.ch^
+||doh-02.spectrum.com^
+||doh-01.spectrum.com^
