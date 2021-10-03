@@ -1,6 +1,6 @@
 !
 ! Title: Jefe The Great Wall DoH
-! Last modified: 2021-09-26T07:15:07.870Z
+! Last modified: 2021-10-03T07:15:11.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -68,6 +68,7 @@
 ||dot-sg.blahdns.com^
 ||doh-sg.blahdns.com^
 ||doh.blockerdns.com^
+||doh.bortzmeyer.fr^
 ||dns.brahma.world^
 ||bravedns.com^
 ||doh.captnemo.in^
@@ -124,8 +125,10 @@
 ||dns.google.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
+||query.hdns.io^
 ||ordns.he.net^
 ||dns.hostux.net^
+||opennic.i2pd.xyz^
 ||public.dns.iij.jp^
 ||jcdns.fun^
 ||us1.dns.lavate.ch^
@@ -148,6 +151,7 @@
 ||lv1.nixnet.xyz^
 ||ny1.nixnet.xyz^
 ||lux1.nixnet.xyz^
+||dns.njal.la^
 
 ||doh.opendns.com^
 ||doh.familyshield.opendns.com^
@@ -157,11 +161,13 @@
 ||resolver1-fs.opendns.com^
 ||resolver2-fs.opendns.com^
 ||dns.oszx.co^
-||rpz-public-resolver1.rrdns.pch.net^
-||dns.pumplex.com^
-||doh.powerdns.org^
+
 ||a.passcloud.xyz^
 ||i.passcloud.xyz^
+||doh.post-factum.tk^
+||doh.powerdns.org^
+||rpz-public-resolver1.rrdns.pch.net^
+||dns.pumplex.com^
 ||dns.quad9.net^
 ||dns9.quad9.net^
 ||dns10.quad9.net^
@@ -173,6 +179,7 @@
 ||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
+||dns1.ryan-palmer.com^
 ||doh.securedns.eu^
 ||ads-doh.securedns.eu^
 ||dot.securedns.eu^
@@ -189,12 +196,14 @@
 ||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.t53.de^
+||dns.therifleman.name^
 ||doh.tiar.app^
 ||dot.tiar.app^
 ||doh.tiarap.org^
 ||jp.tiar.app^
 ||jp.tiarap.org^
 ||dns.twnic.tw^
+||doh.this.web.id^
 ||dns.wugui.zone^
 ||dns-asia.wugui.zone^
 ||adfree.usableprivacy.net^
@@ -252,3 +261,5 @@
 ||doh.quickline.ch^
 ||doh-02.spectrum.com^
 ||doh-01.spectrum.com^
+||mask.icloud.com^
+||mask-h2.icloud.com^
