@@ -1,6 +1,6 @@
 !
 ! Title: Jefe The Great Wall DoH
-! Last modified: 2022-06-26T07:16:02.636Z
+! Last modified: 2022-07-03T07:16:34.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -42,8 +42,6 @@
 ||dot.no.ahadns.net^
 ||dot.chi.ahadns.net^
 ||dot.au.ahadns.net^
-||dns.alekberg.net^
-||dns2.alekberg.net^
 ||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
@@ -95,6 +93,7 @@
 ||dns.digitale-gesellschaft.ch^
 ||dns1.digitale-gesellschaft.ch^
 ||dns2.digitale-gesellschaft.ch^
+||doh.disconnect.app^
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
 ||dnsforge.de^
