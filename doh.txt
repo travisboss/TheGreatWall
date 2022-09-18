@@ -1,9 +1,11 @@
 !
 ! Title: Jefe The Great Wall DoH
-! Last modified: 2022-09-11T07:18:44.090Z
+! Last modified: 2022-09-18T07:19:15.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
+||doh.dns.apple.com.v.aaplimg.com^
+||doh.dns.apple.com^
 ||doh.42l.fr^
 ||i.233py.com^
 ||i.233py.com.a.bdydns.com^
@@ -22,6 +24,9 @@
 ||dns.adguard.com^
 ||dns-family.adguard.com^
 ||dns-unfiltered.adguard.com^
+||dns.adguard-dns.com^
+||family.adguard-dns.com^
+||unfiltered.adguard-dns.com^
 ||doh.nl.ahadns.net^
 ||doh.in.ahadns.net^
 ||doh.la.ahadns.net^
@@ -135,6 +140,7 @@
 ||resolver-eu.lelux.fi^
 ||doh.libredns.org^
 ||dot.libredns.gr.com^
+||dot.libredns.gr^
 ||doh.libredns.gr^
 ||jarjar.meganerd.nl^
 ||dns.mrkaran.dev^
@@ -262,3 +268,6 @@
 ||doh-01.spectrum.com^
 ||mask.icloud.com^
 ||mask-h2.icloud.com^
+||dandelionsprout.asuscomm.com^
+||basic.rethinkdns.com^
+||max.rethinkdns.com^
