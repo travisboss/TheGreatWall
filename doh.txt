@@ -1,6 +1,6 @@
 !
 ! Title: Jefe The Great Wall DoH
-! Last modified: 2022-12-11T07:14:04.516Z
+! Last modified: 2022-12-18T07:12:57.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -36,7 +36,6 @@
 ||doh.es.ahadns.net^
 ||doh.no.ahadns.net^
 ||doh.chi.ahadns.net^
-||doh.au.ahadns.net^
 ||dot.nl.ahadns.net^
 ||dot.in.ahadns.net^
 ||dot.la.ahadns.net^
@@ -46,8 +45,6 @@
 ||dot.es.ahadns.net^
 ||dot.no.ahadns.net^
 ||dot.chi.ahadns.net^
-||dot.au.ahadns.net^
-||dnses.alekberg.net^
 ||dnsnl.alekberg.net^
 ||dnsse.alekberg.net^
 ||dns.alidns.com^
@@ -70,7 +67,6 @@
 ||doh-jp.blahdns.com^
 ||dot-sg.blahdns.com^
 ||doh-sg.blahdns.com^
-||doh.blockerdns.com^
 ||doh.bortzmeyer.fr^
 ||dns.brahma.world^
 ||bravedns.com^
@@ -114,12 +110,7 @@
 ||a.family.ns.dnslify.com^
 ||b.family.ns.dnslify.com^
 ||dns.dnsoverhttps.net^
-||dns.dns-over-https.com^
-||adblock-dot.dnswarden.com^
-||adult-filter-dot.dnswarden.com^
 ||doh.dnswarden.com^
-||ecs-doh.dnswarden.com^
-||uncensored-dot.dnswarden.com^
 ||doh.li^
 ||doh.ffmuc.net^
 ||dot.ffmuc.net^
@@ -142,17 +133,13 @@
 ||dot.libredns.gr.com^
 ||dot.libredns.gr^
 ||doh.libredns.gr^
-||jarjar.meganerd.nl^
-||dns.mrkaran.dev^
 ||adblock.mydns.network^
 ||dns.neutopia.org^
 ||dns.aa.net.uk^
-||doh.netweaver.uk^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
 ||odvr.nic.cz^
-||dns.nixnet.xyz^
 ||lv1.nixnet.xyz^
 ||ny1.nixnet.xyz^
 ||lux1.nixnet.xyz^
@@ -185,13 +172,9 @@
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||dns1.ryan-palmer.com^
-||doh.securedns.eu^
-||ads-doh.securedns.eu^
-||dot.securedns.eu^
 ||doh.seby.io^
 ||doh-2.seby.io^
 ||dot.seby.io^
-||2.dnscrypt-cert.dns.seby.io^
 ||dnsovertls.sinodun.com^
 ||dnsovertls1.sinodun.com^
 ||dnsovertls2.sinodun.com^
@@ -208,7 +191,6 @@
 ||jp.tiar.app^
 ||jp.tiarap.org^
 ||dns.twnic.tw^
-||doh.this.web.id^
 ||dns.wugui.zone^
 ||dns-asia.wugui.zone^
 ||adfree.usableprivacy.net^
@@ -224,7 +206,6 @@
 ||dns.east.comss.one^
 ||dns-doh.dnsforfamily.com^
 ||dns-dot.dnsforfamily.com^
-||dns.cfiec.net^
 ||asia.dnscepat.id^
 ||eropa.dnscepat.id^
 ||doh.360.cn^
@@ -234,11 +215,9 @@
 ||dot.pub^
 ||kaitain.restena.lu^
 ||getdnsapi.net^
-||dns.larsdebruin.net^
 ||dns-tls.bitwiseshift.net^
 ||ns1.dnsprivacy.at^
 ||ns2.dnsprivacy.at^
-||dns.bitgeek.in^
 ||privacydns.go6lab.si^
 ||dnsotls.lab.nic.cl^
 ||tls-dns-u.odvr.dns-oarc.net^
@@ -254,10 +233,8 @@
 ||dot.eastau.pi-dns.com^
 ||doh.eastas.pi-dns.com^
 ||dot.eastas.pi-dns.com^
-||doh.pi-dns.com^
 ||freedns.controld.com^
 ||doh.mullvad.net^
-||dns.arapurayil.com^
 ||dot.xfinity.com^
 ||dot.cox.net^
 ||doh.cox.net^
