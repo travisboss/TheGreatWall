@@ -1,6 +1,6 @@
 !
 ! Title: Jefe The Great Wall DoH
-! Last modified: 2024-12-08T07:04:51.856Z
+! Last modified: 2024-12-15T07:04:50.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
